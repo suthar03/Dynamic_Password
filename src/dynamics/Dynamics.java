@@ -16,7 +16,7 @@ public class Dynamics {
      */
     public static void main(String[] args) {
         // TODO code application logic here]
-        new Dy().setVisible(true);
+        new DyR_Adv_Reserved().setVisible(true);
     }
     
 }

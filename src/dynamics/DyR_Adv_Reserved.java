@@ -1112,7 +1112,7 @@ public void clock(JLabel lbl){
                 }
             } catch (InterruptedException ex) {
                 System.out.println("Some Distrubted me::");
-                Logger.getLogger(NP.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(DyR_Adv_Reserved.class.getName()).log(Level.SEVERE, null, ex);
             }
             }
     };
@@ -1340,7 +1340,7 @@ public boolean bracketbalance(String str){
             sleep(1000);
         } catch (InterruptedException ex) {
                 System.out.println("Some Distrubted me::");
-                Logger.getLogger(NP.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(DyR_Adv_Reserved.class.getName()).log(Level.SEVERE, null, ex);
             }
         clck=true;
         clock(login_crtm);             
@@ -1379,7 +1379,7 @@ public boolean bracketbalance(String str){
             sleep(1000);
         } catch (InterruptedException ex) {
                 System.out.println("Some Distrubted me::");
-                Logger.getLogger(NP.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(DyR_Adv_Reserved.class.getName()).log(Level.SEVERE, null, ex);
             }
         clck=true;
         clock(login_crtm);
@@ -1618,7 +1618,7 @@ System.out.println("Focus Gained");
             sleep(1000);
         } catch (InterruptedException ex) {
                 System.out.println("Some Distrubted me::");
-                Logger.getLogger(NP.class.getName()).log(Level.SEVERE, null, ex);
+                Logger.getLogger(DyR_Adv_Reserved.class.getName()).log(Level.SEVERE, null, ex);
             }
         clck=true;
         clock(help_crtm);
